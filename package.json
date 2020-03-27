@@ -5,7 +5,8 @@
   "bin": "ets2logger.js",
   "main": "ets2logger.js",
   "dependencies": {
-    "etcars-node-client": "^1.0.4"
+    "etcars-node-client": "^1.0.4",
+    "strftime": "^0.10.0"
   },
   "devDependencies": {
     "pkg": "^4.4.4"
