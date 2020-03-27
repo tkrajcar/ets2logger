@@ -1,0 +1,19 @@
+{
+  "name": "ets2logger",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "ets2logger.js",
+  "main": "ets2logger.js",
+  "dependencies": {
+    "etcars-node-client": "^1.0.4"
+  },
+  "devDependencies": {
+    "pkg": "^4.4.4"
+  },
+  "scripts": {
+    "build": "pkg . -t node12-win-x64",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Krajcar",
+  "license": "MPL 2.0"
+}
